@@ -17,9 +17,9 @@
 ---
 
 ## 🕹️ Projects Showcase:
-- 🎮 **[DemoDay](https://github.com/dosleam/DemoDay.git)**: Immersive VR experience.
+- 🎮 **[DemoDay](https://github.com/dosleam/DemoDay.git)**
 - 🚀 **[HbNb](https://github.com/dosleam/Project-HbNb.git)**
-- 🔗 **[Simple Shell]([https://github.com/votre_repo](https://github.com/dosleam/holbertonschool-simple_shell.git)**
+- 🔗 **[Simple Shell](https://github.com/dosleam/holbertonschool-simple_shell.git)**
 
 ---
 
