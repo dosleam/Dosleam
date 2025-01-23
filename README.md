@@ -1,26 +1,41 @@
-# 🎮 Welcome to My GitHub Arena! 🕹️
+# 🎮 Welcome to My Gaming Dev Hub! 🕹️
 
-> *"Coding is like leveling up in a game — every project is a new adventure."*
+> *"Coding is like playing an RPG — every line of code is a step closer to unlocking new levels."*
 
-## About Me
-- 🧑‍💻 **Passionate Developer** with a love for gaming and technology.
-- 🎯 Always aiming for **100% completion** on every project.
-- 🎨 Building creative and interactive gaming experiences.
+Hi there! I'm a passionate developer with a love for gaming and creative coding. My mission is to craft immersive experiences and powerful tools for gamers and developers alike.
 
 ---
 
-## 🔥 My Arsenal:
-- **Languages:** `C`, `Python`, `C#`
-- **Tools:** Unity
-- **Current Quest:** Developing a VR game for demo day.
+## 🌟 About Me
+- 🔭 Currently exploring **VR Development** and **Game Engines**.
+- 🌌 Combining **creativity** and **technology** to build digital worlds.
+- 🎮 Gamer at heart, coder by profession.
+- ✨ Always ready for a new challenge!
 
 ---
 
-## 🕹️ Projects Showcase:
-- 🎮 **[DemoDay](https://github.com/dosleam/DemoDay.git)**
-- 🚀 **[HbNb](https://github.com/dosleam/Project-HbNb.git)**
-- 🔗 **[Simple Shell](https://github.com/dosleam/holbertonschool-simple_shell.git)**
+## 🚀 My Skillset
+- **Languages:** `C`, `Python`, `C#`, `JavaScript`
+- **Game Engines:** Unity, Unreal
+- **Other Tools:** Git, VS Code
 
 ---
 
-🌟 *Follow me and let's embark on this coding journey together!*
+## 🕹️ Featured Projects
+### 🎨 [DemoDay VR Game](https://github.com/dosleam/DemoDay.git)
+A fully immersive VR experience showcasing creativity and interactive gameplay.
+
+### ⚙️ [holbertonschool-simple_shell](https://github.com/dosleam/holbertonschool-simple_shell.git)
+A custom shell project, reimagined for developers with a passion for efficiency.
+
+### 🛠️ [HbNb](https://github.com/dosleam/Project-HbNb.git)
+A full-stack project inspired by the Airbnb platform, combining backend development with a touch of creativity.
+
+---
+
+## 🎮 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-sousa-4b60a1312/)
+
+---
+
+*Leveling up in code, one project at a time.*
