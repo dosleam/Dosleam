@@ -22,7 +22,7 @@ Hi there! I'm a passionate developer with a love for gaming and creative coding.
 ---
 
 ## 🕹️ Featured Projects
-### 🎨 [DemoDay VR Game](https://github.com/dosleam/DemoDay.git)
+### 🎨 [DemoDay VR Game](https://github.com/dosleam/Project-Demoday.git)
 A fully immersive VR experience showcasing creativity and interactive gameplay.
 
 ### ⚙️ [Simple_shell](https://github.com/dosleam/holbertonschool-simple_shell.git)
